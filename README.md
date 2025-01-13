@@ -9,7 +9,7 @@ texture loading, shader compilation, render loop, animation ticks, benchmarking 
 Thereby allowing the demo/benchmark developer to focus on writing the actual 'demo' code.
 
 Therefore demos can be developed on PC or Android where the tool chain and debug facilities often allows for faster turnaround time and
-then compiled and deployed without code changes for other supported platforms.
+then compiled and deployed without code changes for other supported platfo rms.
 
 The framework also allows for ‘real’ comparative benchmarks between the different OS and windowing systems,
 since the exact same demo/benchmark code run on all of them.
